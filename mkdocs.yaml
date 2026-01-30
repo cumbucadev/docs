@@ -16,7 +16,8 @@ theme:
   locale: pt
   custom_dir: theme
   highlightjs: true
-  logo: https://github.com/cumbucadev/brand/blob/main/images/logo-dark-transparent.png?raw=true
+  logo: /assets/img/logo-transparent.png
+  favicon: /assets/img/logo-transparent.png
 
 #######
 # Docs settings
