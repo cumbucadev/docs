@@ -1,0 +1,21 @@
+[project]
+name = "cumbuca-docs"
+version = "0.1.0"
+description = "cumbuca.dev docs repository"
+authors = [
+    { name = "Nilton Teixeira", email = "9078708+niltonfrederico@users.noreply.github.com" },
+]
+license = { text = "To Be Defined" }
+requires-python = ">=3.13,<4"
+dependencies = [
+    "mkdocs (>=1.6.1,<2.0.0)",
+    "mkdocs-dracula-theme (>=1.0.8,<2.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

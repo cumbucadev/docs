@@ -1,0 +1,61 @@
+#######
+# General metadata
+#######
+site_name: Cumbuca Docs
+site_url: http://localhost:8000
+repo_url: http://github.com/cumbucadev/cumbucadocs
+site_author: Cumbuca.dev
+copyright: "2026, Cumbuca.dev"
+site_description: Documentação oficial do Cumbuca.dev
+
+#######
+# Theme settings
+#######
+theme:
+  name: dracula
+  locale: pt
+  custom_dir: theme
+  highlightjs: true
+  logo: https://github.com/cumbucadev/brand/blob/main/images/logo-dark-transparent.png?raw=true
+
+#######
+# Docs settings
+#######
+nav:
+  - Página inicial: index.md
+  - Contribuindo:
+      - Escrevendo uma documentação: contribute/writing-docs.md
+
+#######
+# Development settings
+#######
+watch:
+  - docs
+  - theme/
+
+#######
+# Docs settings
+#######
+use_directory_urls: true
+
+#######
+# Plugins/extensions settings
+#######
+plugins:
+  - search:
+      min_search_length: 3
+      lang: pt
+
+markdown_extensions:
+  - abbr # Abbreviations support
+  - attr_list # Attribute lists for elements
+  - def_list # Definition lists
+  - smarty # Smart punctuation
+  - meta # Metadata support
+  - sane_lists # Better handling of lists
+  - toc: # Table of contents settings
+      toc_depth: 2-4
+      permalink: true
+
+extra_css:
+  - assets/css/cumbuca.css
