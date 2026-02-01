@@ -13,6 +13,10 @@
     background-color: var(--cumbuca-cream);
 }
 
+.cumbuca-bg-dark {
+    background-color: var(--cumbuca-purple);
+}
+
 .cumbuca-bg-white {
     background-color: var(--cumbuca-white);
 }
