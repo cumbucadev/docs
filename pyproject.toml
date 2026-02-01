@@ -9,7 +9,7 @@ license = { text = "To Be Defined" }
 requires-python = ">=3.13,<4"
 dependencies = [
     "mkdocs (>=1.6.1,<2.0.0)",
-    "mkdocs-dracula-theme (>=1.0.8,<2.0.0)",
+    "mkdocs-material (>=9.7.1,<10.0.0)",
 ]
 
 
