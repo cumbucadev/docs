@@ -28,7 +28,7 @@ theme:
     - search.share
     - meta
     - tags
-    - tocs.integrate
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: cumbuca
@@ -46,10 +46,14 @@ theme:
 # Docs settings
 #######
 nav:
-  - Página inicial: index.md
-  - Contribuindo:
-      - Documentação:
-          - Página inicial: contribute/docs/index.md
+  - Página inicial:
+      - Boas-vindas!: index.md
+  - Código de Conduta: codigo-de-conduta.md
+  - Como contribuir:
+      - contribuindo/index.md
+      - Templates:
+          - Ata de Reunião: contribuindo/templates/template-ata-reuniao.md
+          - Guia do Núcleo: contribuindo/templates/template-nucleo.md
 
 #######
 # Development settings
@@ -78,7 +82,9 @@ markdown_extensions:
   - smarty # Smart punctuation
   - toc: # Table of contents settings
       toc_depth: 2-4
-      permalink: true
+  - pymdownx.emoji: # Emoji support
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - assets/css/cumbuca.css
