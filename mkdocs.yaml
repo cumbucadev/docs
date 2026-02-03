@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 #######
 # General metadata
 #######
@@ -26,8 +27,6 @@ theme:
     - navigation.top
     - search.suggest
     - search.share
-    - meta
-    - tags
     - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"

@@ -13,17 +13,17 @@ A **Cumbuca Dev** é uma organização dedicada a promover diversidade e inclus�
 
 Além da própria Cumbuca Dev, estão sob seu guarda-chuva as seguintes organizações:
 
-- **[ScanAPI](https://github.com/scanapi)** <img src="https://github.com/scanapi/brand/raw/main/svg/icon-dark.svg" width="20" height="20" style="vertical-align: text-bottom;">
+- **[ScanAPI](https://github.com/scanapi)** <img src="https://github.com/scanapi/brand/raw/main/svg/icon-dark.svg" width="20" height="20" style="vertical-align: text-bottom;" alt="Logo do ScanAPI">
 
   - Ferramentas para automação de testes de integração e documentação de APIs.
 
-- **[Brazilian Utils](https://github.com/brazilian-utils)** <img src="https://github.com/brazilian-utils/brand/raw/main/icons/icon.svg" width="20" height="20" style="vertical-align: text-bottom;">
+- **[Brazilian Utils](https://github.com/brazilian-utils)** <img src="https://github.com/brazilian-utils/brand/raw/main/icons/icon.svg" width="20" height="20" style="vertical-align: text-bottom;" alt="Logo do Brazilian Utils">
   - Bibliotecas de utilitários para validar, gerar e manipular dados conforme padrões e particularidades brasileiras.
 
 ---
 
 <div align="center">
 
-Para qualquer contato, dúvida ou sugestão, escreva para: **cumbucadev@gmail.com**
+Para qualquer contato, dúvida ou sugestão, escreva para: **<cumbucadev@gmail.com>**
 
 </div>

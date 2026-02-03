@@ -88,10 +88,10 @@ git commit -m "Descrição clara do que foi alterado"
 
 O `pre-commit` irá executar, corrigindo e te avisando sobre possíveis problemas antes de permitir o commit. Caso algo seja apontado, corrija os problemas indicados, adicione os arquivos novamente e tente fazer o commit novamente.
 
-2. Envie suas alterações para o seu fork no GitHub:
+1. Envie suas alterações para o seu fork no GitHub:
 
 ```bash
 git push origin minha-nova-branch
 ```
 
-3. Vá até o repositório oficial da [cumbuca.dev](https://github.com/cumbucadev/docs) e abra um Pull Request com suas alterações. Descreva claramente o que foi alterado e por quê.
+1. Vá até o repositório oficial da [cumbuca.dev](https://github.com/cumbucadev/docs) e abra um Pull Request com suas alterações. Descreva claramente o que foi alterado e por quê.

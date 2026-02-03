@@ -57,7 +57,7 @@ online ou offline.
 
 Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro
 motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via
-contato cmaiacd@gmail.com ou mdeazevedomaia@gmail.com. Todas as reclamações serão revisadas e
+contato <cmaiacd@gmail.com> ou <mdeazevedomaia@gmail.com>. Todas as reclamações serão revisadas e
 investigadas imediatamente e de maneira justa.
 
 A liderança da comunidade tem a obrigação de respeitar a privacidade e a segurança de quem reportar
