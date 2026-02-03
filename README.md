@@ -47,8 +47,8 @@ Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver 
 
 ## ❤️ Quem já Contribuiu
 
-<a href="https://github.com/cumbucadev/comunidade/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cumbucadev/comunidade" />
+<a href="https://github.com/cumbucadev/docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/docs" />
 </a></br></br>
 
 _Made with [contrib.rocks](https://contrib.rocks)._

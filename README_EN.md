@@ -44,7 +44,7 @@ Make sure to read these files carefully before contributing. If you have any dif
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/comunidade)](https://github.com/cumbucadev/comunidade/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=docs/comunidade)](https://github.com/cumbucadev/docs/graphs/contributors)
 
 _Made with [contrib.rocks](https://contrib.rocks)._
 
