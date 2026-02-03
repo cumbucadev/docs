@@ -1,0 +1,22 @@
+name: pr
+on:
+    pull_request:
+        branches:
+            - main
+permissions:
+    contents: write
+jobs:
+    lint:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v6
+            - name: Setup Python
+              uses: actions/setup-python@v6
+              with:
+                  python-version: 3.x
+            - name: Install MkDocs Material
+              run: pip install mkdocs-material pre-commit
+            - name: Lint MkDocs Configuration
+              run: mkdocs build --strict
+            - name: Validate Markdown Files
+              run: pre-commit run --all-files
